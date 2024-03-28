@@ -14,6 +14,10 @@ public class Order {
         this.price = price;
     }
 
+    public Order(){
+
+    }
+
     public String getClientName() {
         return clientName;
     }
